@@ -9,5 +9,6 @@ namespace ConsoleTest
     interface INewItem
     {
         void Load();
+        void Unload();
     }
 }
