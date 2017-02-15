@@ -10,5 +10,6 @@ namespace ConsoleTest
     {
         void Load();
         void Unload();
+        void Delete();
     }
 }
